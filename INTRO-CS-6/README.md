@@ -300,11 +300,7 @@ to specify where you would like to push or pull code from.
 Navigate to your Fork on Github, you should now see your new branch in the interface.
 
 ---
-
-:cop: :raised_hand: - Please wait until everyone has caught up.
-
-:construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction: :construction:
-
+Please wait until everyone has caught up.
 ---
 
 ### 6 - Open a Pull Request
