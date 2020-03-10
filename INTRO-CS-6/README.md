@@ -101,7 +101,7 @@ $ git remote show me
     master  pushes to master (up to date)
 ```
 
-All team members will need to pull changes from the source repository in order to branch from for feature branches.
+All team members will need to pull changes from the source repository in order to branch from feature branches.
 
 Fetch branch data from the `origin` remote:
 ```sh
@@ -129,7 +129,7 @@ Please wait until everyone has caught up.
 
 __All Team Members__
 
-By now you should have noticed that you do not have a local `develop` branch
+By now you should have noticed that you do not have a local `develop` branch.
 ```sh
 $ git branch
 * master
@@ -174,7 +174,7 @@ Follow along with the activities below to walk through the process of creating a
 
 __All Team Members__
 
-Choose a writer &mdash; you will add their recipe to the project within a new feature branch. If there are more writers than people, that is fine, only one feature branch will ultimately be merged.
+Choose a writer &mdash; you will add their recipe to the project within a new feature branch. If there are more writers than people, that is fine; only one feature branch will ultimately be merged.
 
 Create a feature branch off of the `develop` branch that contains the writer's name and the month of the pick:
 ```sh
