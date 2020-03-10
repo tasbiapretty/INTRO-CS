@@ -4,9 +4,9 @@ I'm so glad you've made it. Allow me to introduce myself. I'm Mr. Wanston. I am 
 
 I was informed that you've been learning how to use 'cd' and 'ls' effectively - so you should be able to do this job, no problem!
 
-1. Download the folders of this repository
+1. Download the folders of this repository.
 
-2. Open your terminal and navigate to the folder where you downloaded the repository
+2. Open your terminal and navigate to the folder where you downloaded the repository.
 
 3. Enter the tent and start moving any animals you can find into the show room! 
 
